@@ -1,0 +1,15 @@
+---
+Projets:
+  - nom: Projet1
+  - librairies:
+    - nom: lib1
+      version: 1
+      description: desc1
+    - nom:lib2
+      version:2
+      description:desc2
+  - serveurs:
+    - nom: server1
+      url: url1
+    - nom: server2
+      url: url2

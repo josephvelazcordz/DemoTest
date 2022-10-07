@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projets>
+	<projet>
+		<nom></nom>
+		<librairies>
+			<librairie>
+				<nom>
+				</nom>
+				<version>
+				</version>
+				<description>
+				</description>
+			</librairie>
+		</librairies>
+		<serveurs>
+			<server>
+				<nom>
+				</nom>
+				<url>
+				</url>
+			</server>
+		</serveurs>	
+	</projet>
+</projets>
